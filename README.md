@@ -19,6 +19,13 @@ Conjunto de cursos sobre Excel feitos em 2025
 ![image](https://github.com/user-attachments/assets/172f5cef-b6b1-4862-bb58-a267b66eb7ce)
 
 ## 2. Curso de Funções com Excel: operações matemáticas e filtros
-   - Tabelas e gráficos: 
+   ### Tópicos abordados:
+    - Classificando os dados no Excel
+    - Aplicando filtros no Excel
+    - Cálculos com condição
+    - Validação de dados
+    - Utilizando outras funções
+    
+   ###Tabelas e gráficos: 
 
 
