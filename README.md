@@ -7,8 +7,8 @@ Conjunto de cursos sobre Excel feitos em 2025
       - Estruturando os dados;
       - Tornando os dados mais visuais;
       - Compartilhando dados na nuvem.
-   ###- Link da tabela: https://1drv.ms/x/c/43E1D13F4F1EA64E/ETrKJ2ZrS3FNgYMoepwv9oUBVzblRt19qTpJNlFrfuPAzg?e=GlOnrW
-   ###- Tabelas e gráficos:
+   ### Link da tabela: https://1drv.ms/x/c/43E1D13F4F1EA64E/ETrKJ2ZrS3FNgYMoepwv9oUBVzblRt19qTpJNlFrfuPAzg?e=GlOnrW
+   ### Tabelas e gráficos:
      
 ![image](https://github.com/user-attachments/assets/6ffa4a49-74f2-4219-803e-087ad5d2a280)
 
