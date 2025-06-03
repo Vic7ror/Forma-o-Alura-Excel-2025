@@ -1,7 +1,7 @@
 # Formação-Alura-Excel-2025
 Conjunto de cursos sobre Excel feitos em 2025
 ## 1.  Excel: domine o editor de planilhas
-   ###- Tópicos abordados:
+   ### Tópicos abordados:
       - Formatação passo a passo;
       - Fórmulas e funções;
       - Estruturando os dados;
